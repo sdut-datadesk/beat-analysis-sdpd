@@ -7,7 +7,7 @@ This repository contains data and code for the analysis [reported and published]
 
 The Racial and Identity Profiling Act of 2015 (RIPA) requires nearly all California law enforcement agencies to submit demographic data on all detentions and searches. The Union-Tribune obtained in January stop data from the San Diego Police Department.
 
-The Union-Tribune collected this data to analyze stops conducted by the San Diego Police Department.
+The Union-Tribune collected this data to analyze stops conducted by the department.
 
 The code analyzes the types of people who are stopped, including their age, gender, perceived disability and limited English status, as well as the rate in which racial groups are stopped by beat.
 
@@ -22,6 +22,8 @@ In some circumstances, officers list more than one perceived race for an individ
 Individuals who were perceived as Hispanic and any other race, were included in Hispanic totals. Individuals perceived as more than one race were categorized as those with two or more race. The remaining race categories were left the same.
 
 More than one action can take place during a stop. The Union-Tribune analyzed the number of people on which those actions were taken, as well as the number of times each action was used during the data time frame.
+
+A total of 15 stops were identified as duplicates in SDPD data and were removed from the analysis.
 
 ### The SDUT repository contains the following:
 
