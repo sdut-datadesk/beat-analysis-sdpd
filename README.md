@@ -25,6 +25,8 @@ More than one action can take place during a stop. The Union-Tribune analyzed th
 
 ### The SDUT repository contains the following:
 
+- `beat_demographics_2019_acs.csv` - Population totals of each beat in the city of San Diego, according to the U.S. Census Bureau 2019 5-year American Community Survey (ACS).
+- `pd_beats_datasd` - Shapefiles and names for all beats within the city of San Diego, available on the [city's data portal website](https://data.sandiego.gov/datasets/police-beats/).
 - `ripa_actions_taken_datasd.csv` - Actions taken in each stop by San Diego Police Department. Contains data for stops from July 2018 through December 2020.
 - `ripa_contraband_evid_datasd.csv` - Contraband or evidence found during each stop by San Diego Police Department. Contains data for stops from July 2018 through December 2020.
 - `ripa_disability_datasd.csv` - Disabilities perceived in each stop by San Diego Police Department. Contains data for stops from July 2018 through December 2020.
@@ -34,7 +36,7 @@ More than one action can take place during a stop. The Union-Tribune analyzed th
 - `ripa_search_basis_datasd.csv` - The basis for each search conducted by San Diego Police Department. Contains data for stops from July 2018 through December 2020.
 - `ripa_stop_reason_datasd.csv` - The reason for each stop by San Diego Police Department. Contains data for stops from July 2018 through December 2020.
 - `ripa_stops_datasd.csv` - General location, date and time for each stop conducted by San Diego Police Department. Contains data for stops from July 2018 through December 2020.
-- `beat-analysis-sdpd.R` - Import and analysis R script documenting findings published by the Union-Tribune.
+- `sdpd-beat-analysis.R` - Import and analysis R script documenting findings published by the Union-Tribune.
 
 ### Sourcing
 Please link and source [*The San Diego Union-Tribune*](https://www.sandiegouniontribune.com/) when referencing any analysis or findings in published work.
