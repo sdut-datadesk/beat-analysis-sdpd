@@ -9,21 +9,21 @@ The Racial and Identity Profiling Act of 2015 (RIPA) requires nearly all Califor
 
 The Union-Tribune collected this data to analyze stops conducted by the department.
 
-The code analyzes the types of people who are stopped, including their age, gender, perceived disability and limited English status, as well as the rate in which racial groups are stopped by beat.
+The code analyzes the people who are stopped, including their age, gender, perceived disability and limited English status, as well as the rate in which racial groups are stopped by beat.
 
 ### Methodology / Notes
 
-The San Diego Police Department data tables contain all pedestrian and traffic stops from July 2018 through December 2020. The original data tables are compiled in nine, .csv files that are available for download on the [city's data portal website](https://data.sandiego.gov/datasets/police-ripa-stops/).
+The San Diego Police Department data tables contain all pedestrian and traffic stops from July 2018 through December 2020. The original data tables are compiled in nine .csv files that are available for download on the [city's data portal website](https://data.sandiego.gov/datasets/police-ripa-stops/).
 
-Since more than one individual can be involved a stop (officers are required to record the ethnicity of drivers and passengers) the Union-Tribune opted to analyze the race of each person involved, which is the same technique used by RIPA officials.
+Since more than one individual can be involved in a stop (officers are required to record the race/ethnicity of drivers and passengers) the Union-Tribune opted to analyze the race/ehtnicity of each person involved, which is the same technique used by RIPA officials.
 
-In some circumstances, officers list more than one perceived race for an individual involved in traffic stops. 
+In some stops, officers list more than one perceived race for an individual. 
 
-Individuals who were perceived as Hispanic and any other race, were included in Hispanic totals. Individuals perceived as more than one race were categorized as those with two or more race. The remaining race categories were left the same.
+Individuals who were perceived as Hispanic and any other race were included in Hispanic totals. Individuals perceived as more than one race were categorized as those with two or more races. The remaining race categories were left the same.
 
-More than one action can take place during a stop. The Union-Tribune analyzed the number of people on which those actions were taken, as well as the number of times each action was used during the data time frame.
+More than one action can take place during a stop. The Union-Tribune analyzed the number of people on which those actions were taken as well as the number of times each action was used during the data time frame.
 
-A total of 15 stops were identified as duplicates in SDPD data and were removed from the analysis.
+A total of 15 stops were identified as duplicates in the San Diego police data and were removed from the analysis.
 
 ### The SDUT repository contains the following:
 
